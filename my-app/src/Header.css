@@ -1,0 +1,12 @@
+.header-app {
+  background-color: rgb(6, 75, 6);
+  min-height: 9vh;
+  justify-content: center;
+  display: flex;
+}
+.menu-text {
+  color: rgb(211, 194, 174);
+  font-size: 6vh;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
